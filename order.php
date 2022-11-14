@@ -87,7 +87,7 @@
                 <fieldset>
                     <legend>Delivery Details</legend>
                     <div class="order-label">Full Name</div>
-                    <input type="text" name="full-name" placeholder="E.g. Vijay Thapa" class="input-responsive" required>
+                    <input type="text" name="full-name" placeholder="E.g. DC" class="input-responsive" required>
 
                     <div class="order-label">Phone Number</div>
                     <input type="tel" name="contact" placeholder="E.g. 9843xxxxxx" class="input-responsive" required>
