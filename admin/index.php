@@ -24,7 +24,7 @@
     <body>
         <div class="footer">
             <div class="wrapper">
-            Footer goes here
+                <p class="text-center"> 2022 All rights reserved, Daily - <a href="a" Dieter Cho</a></p>
             </div>
         </div>
     </body>
