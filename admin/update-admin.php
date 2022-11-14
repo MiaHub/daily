@@ -11,7 +11,7 @@
             $id=$_GET['id'];
 
             //2. Create SQL Query to Get the Details
-            $sql="SELECT * FROM tbl_admin WHERE id=$id";
+            $sql="SELECT * FROM d_admin WHERE id=$id";
 
             //Execute the Query
             $res=mysqli_query($conn, $sql);
@@ -83,7 +83,7 @@
         $username = $_POST['username'];
 
         //Create a SQL Query to Update Admin
-        $sql = "UPDATE tbl_admin SET
+        $sql = "UPDATE d_admin SET
         full_name = '$full_name',
         username = '$username' 
         WHERE id='$id'

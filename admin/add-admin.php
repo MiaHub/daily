@@ -71,7 +71,7 @@
         $password = md5($_POST['password']); //Password Encryption with MD5
 
         //2. SQL Query to Save the data into database
-        $sql = "INSERT INTO tbl_admin SET 
+        $sql = "INSERT INTO d_admin SET 
             full_name='$full_name',
             username='$username',
             password='$password'

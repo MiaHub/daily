@@ -24,10 +24,10 @@ SET time_zone = "+00:00";
 -- --------------------------------------------------------
 
 --
--- Table structure for table `tbl_admin`
+-- Table structure for table `d_admin`
 --
 
-CREATE TABLE `tbl_admin` (
+CREATE TABLE `d_admin` (
   `id` int(10) UNSIGNED NOT NULL,
   `full_name` varchar(100) NOT NULL,
   `username` varchar(100) NOT NULL,
@@ -35,10 +35,10 @@ CREATE TABLE `tbl_admin` (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
 --
--- Dumping data for table `tbl_admin`
+-- Dumping data for table `d_admin`
 --
 
-INSERT INTO `tbl_admin` (`id`, `full_name`, `username`, `password`) VALUES
+INSERT INTO `d_admin` (`id`, `full_name`, `username`, `password`) VALUES
 (1, 'Arsenio Leach', 'toduwaxobi', 'f3ed11bbdb94fd9ebdefbaf646ab94d3'),
 (9, 'Sasha Mendez', 'goxemyde', 'f3ed11bbdb94fd9ebdefbaf646ab94d3'),
 (10, 'DC', 'vijaythapa', 'f3ed11bbdb94fd9ebdefbaf646ab94d3'),
@@ -131,9 +131,9 @@ INSERT INTO `tbl_order` (`id`, `food`, `price`, `qty`, `total`, `order_date`, `s
 --
 
 --
--- Indexes for table `tbl_admin`
+-- Indexes for table `d_admin`
 --
-ALTER TABLE `tbl_admin`
+ALTER TABLE `d_admin`
   ADD PRIMARY KEY (`id`);
 
 --
@@ -159,9 +159,9 @@ ALTER TABLE `tbl_order`
 --
 
 --
--- AUTO_INCREMENT for table `tbl_admin`
+-- AUTO_INCREMENT for table `d_admin`
 --
-ALTER TABLE `tbl_admin`
+ALTER TABLE `d_admin`
   MODIFY `id` int(10) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=13;
 
 --

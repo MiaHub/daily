@@ -64,7 +64,7 @@
                     
                     <?php 
                         //Query to Get all Admin
-                        $sql = "SELECT * FROM tbl_admin";
+                        $sql = "SELECT * FROM d_admin";
                         //Execute the Query
                         $res = mysqli_query($conn, $sql);
 
