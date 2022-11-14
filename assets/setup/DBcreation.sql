@@ -1,10 +1,10 @@
 
 --
--- Database: `klik_loginsystem`
+-- Database: `daily`
 --
 
-create schema klik_loginsystem;
-use klik_loginsystem;
+create schema daily;
+use daily;
 
 -- --------------------------------------------------------
 
