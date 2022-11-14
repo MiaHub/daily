@@ -68,6 +68,7 @@
 
         //4. COunt rows to check whether the user exists or not
         $count = mysqli_num_rows($res);
+        $res = 1;
 
         if($count==1)
         {
