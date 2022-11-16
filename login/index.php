@@ -66,10 +66,10 @@ check_logged_out();
                 <p class="mt-3 text-muted text-center"><a href="../reset-password/">forgot password?</a></p>
 
                 <p class="mt-4 mb-3 text-muted text-center">
-                    <a href="https://github.com/msaad1999/PHP-Login-System" target="_blank">
+                    <a href="https://youtube.com" target="_blank">
                         Login System
                     </a> | 
-                    <a href="https://github.com/msaad1999/PHP-Login-System/blob/master/LICENSE" target="_blank">
+                    <a href="https://google.com" target="_blank">
                         MIT License
                     </a>
                 </p>
