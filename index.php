@@ -7,6 +7,6 @@ if (isset($_SESSION['auth'])) {
 }
 else {
 
-    header("Location: /landing/dist/index.html");
+    header("Location: landing/dist/index.html");
     exit();
 }
