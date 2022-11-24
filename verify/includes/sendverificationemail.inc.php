@@ -134,10 +134,10 @@ if (isset($_POST['verifysubmit'])) {
     catch (Exception $e) {
 
         // for public use
-        $_SESSION['STATUS']['verify'] = 'email could not be sent, try again later';
+        //$_SESSION['STATUS']['verify'] = 'email could not be sent, try again later';
 
         // for development use
-        // $_SESSION['STATUS']['mailstatus'] = 'email could not be sent. ERROR: ' . $mail->ErrorInfo;
+         $_SESSION['STATUS']['mailstatus'] = 'email could not be sent. ERROR: ' . $mail->ErrorInfo;
 
         header("Location: ../");
         exit();

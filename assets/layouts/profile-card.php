@@ -32,16 +32,16 @@
 
     <img alt='' class='card-img-top card-user-cover' src='../assets/images/banner.png'>
     <div class='card-block'>
-        <a href='https://github.com/msaad1999/PHP-Login-System'>
+        <a href='ttps://github.com/MiaHub'>
             <img src='../assets/images/logo_blackbg.png' class='card-img-profile'>
         </a>
         <h5  class='card-title'>
-            PHP Login System
+            Daily Login
             <small class="text-muted">
-                <a href="https://github.com/msaad1999">msaad1999@github</a>    
+                <a href="https://github.com/MiaHub">mia@github</a>    
             </small>
             <br>
-            <small class="text-muted">Embeddable PHP Login System</small>
+            <small class="text-muted">Daily</small>
         </h5>
     </div>
 

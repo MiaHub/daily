@@ -63,11 +63,9 @@ include '../assets/layouts/header.php';
                 </div>
 
                 <p class="mt-4 mb-3 text-muted text-center">
-                    <a href="https://github.com/msaad1999/PHP-Login-System" target="_blank">
-                        Login System
-                    </a> | 
-                    <a href="https://github.com/msaad1999/PHP-Login-System/blob/master/LICENSE" target="_blank">
-                        MIT License
+                Dont't have an Account ?  
+                    <a href="../" target="_blank">
+                        Sign Up
                     </a>
                 </p>
 
