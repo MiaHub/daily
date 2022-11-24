@@ -66,11 +66,9 @@ check_logged_out();
                 <p class="mt-3 text-muted text-center"><a href="../reset-password/">forgot password?</a></p>
 
                 <p class="mt-4 mb-3 text-muted text-center">
-                    <a href="https://youtube.com" target="_blank">
-                        Login System
-                    </a> | 
-                    <a href="https://google.com" target="_blank">
-                        MIT License
+                        Dont't have an Account ?  
+                    <a href="../" target="_blank">
+                        Sign Up
                     </a>
                 </p>
                 

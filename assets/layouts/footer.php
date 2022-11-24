@@ -16,7 +16,7 @@
                 <div class="col-sm-2">
                     <h5>Get started</h5>
                     <ul>
-                        <li><a href="../welcome/" target="_blank">Welcome</a></li>
+                        <li><a href="../landing/" target="_blank">Welcome</a></li>
                         <li><a href="../login/" target="_blank">Log in</a></li>
                         <li><a href="../register/" target="_blank">Sign up</a></li>
                     </ul>
@@ -51,9 +51,7 @@
         </div>
         <div class="footer-copyright">
             <p>
-                <a href="https://github.com/msaad1999/PHP-Login-System" target="_blank">PHP Login System</a> |  
-                <a href="https://github.com/msaad1999" target="_blank">msaad1999</a> | 
-                <a href="https://github.com/msaad1999/PHP-Login-System/blob/master/LICENSE" target="_blank">MIT License</a>
+                <a href="https://github.com/msaad1999/PHP-Login-System" target="_blank">Sign Up</a> 
             </p>
         </div>
     </footer>

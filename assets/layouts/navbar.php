@@ -37,10 +37,6 @@
                     <!-- Right Side Of Navbar -->
                     <ul class="navbar-nav ml-auto">
 
-                        <li class="nav-item">
-                            <a class="nav-link" href="../welcome">Welcome</a>
-                        </li>
-
                         <?php if (!isset($_SESSION['auth'])) { ?>
 
                             <li class="nav-item">
@@ -62,7 +58,7 @@
                             </li>
 
                             <li class="nav-item">
-                                <a class="nav-link" href="../home">Home</a>
+                                <a class="nav-link" href="../">Home</a>
                             </li>
 
                             <li class="nav-item">
